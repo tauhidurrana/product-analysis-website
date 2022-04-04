@@ -17,8 +17,10 @@
     text-align: start;
     line-height: normal;
     font-size: 16px;
-    color: forestgreen;
+    color: rgb(0, 0, 0);
     font-weight: 400;
+    padding-left: 40px;
+    padding-right: 30px;
 }
 .h-color-1{
     color: forestgreen;
