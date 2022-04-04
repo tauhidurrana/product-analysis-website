@@ -1,0 +1,30 @@
+.home{
+    display: flex;
+    margin-top: 20px;
+    padding-left: 110px;
+    padding-right: 90px;
+    justify-content: space-between;
+    align-items: center;
+    height: 500px;
+}
+.home img{
+    height: 500px;
+}
+.heading-main-part{
+    line-height: 53px;
+}
+.heading-main-part p{
+    text-align: start;
+    line-height: normal;
+    font-size: 16px;
+    color: forestgreen;
+    font-weight: 400;
+}
+.h-color-1{
+    color: forestgreen;
+    font-size: 50px;
+}
+.h-color-2{
+    color: crimson;
+    font-size: 90px;
+}
