@@ -4,3 +4,9 @@
 .review-item img{
     height: 200px;
 }
+.review-item p{
+    line-height: 5px;
+}
+.review-item .fa{
+    color: yellowgreen;
+}
