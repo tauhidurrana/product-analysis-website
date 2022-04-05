@@ -34,7 +34,7 @@ const Home = () => {
                 </div>
             </div>
 
-            <div className='container'>
+            <div className='button-container'>
                 <button onClick={()=>navigate('/reviews')} className='review-button' >See all Reviews</button>
             </div>
         </div>
