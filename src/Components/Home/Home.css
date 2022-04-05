@@ -1,5 +1,6 @@
 .home{
     display: flex;
+    text-align: center;
     margin-top: 20px;
     padding-left: 110px;
     padding-right: 90px;
