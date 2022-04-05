@@ -2,7 +2,7 @@ import React from 'react';
 
 const Blogs = () => {
     return (
-        <div>
+        <div className='blogs-container'>
             <div>
                 <h2>1. What is Context API?</h2>
                 <p>
@@ -23,7 +23,7 @@ const Blogs = () => {
                 <p>
                 Generally, inline elements may contain only data and other inline elements. You can't put block elements inside inline elements.
                 By default, inline elements do not force a new line to begin in the document flow. Block elements, on the other hand, typically cause a line break to occur although, as usual, this can be changed using CSS.
-                
+
                 On the other hand we can say, Any element within a program, document or message is called inline or in-line. When considering HTML, any code built into the web page is called inline. And it does not include any code loaded from an external file. In any web page, almost all the contents are inline except the CSS and image files. Any element that starts a new line for a paragraph and uses the full page or container is called block elements. It has one line or multiple lines and possesses a line break before and after the elements in the line. CSS can be used for formatting the block element.
                 </p>
             </div>

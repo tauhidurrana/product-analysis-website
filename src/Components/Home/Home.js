@@ -25,13 +25,16 @@ const Home = () => {
                 <div className='review-container'>
                     {
                         reviews.slice(0, 3).map(review => <Review
-                        key={review._id}
-                        review = {review}
+                            key={review._id}
+                            review={review}
                         ></Review>)
                     }
                 </div>
             </div>
 
+            <div className='container'>
+                <button className='review-button'>See all Reviews</button>
+            </div>
         </div>
 
     );
