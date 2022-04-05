@@ -4,9 +4,11 @@ import image from '../../Images/watch.png';
 import useReviews from '../../Hooks/useReviews';
 import Review from '../Review/Review';
 import { Button } from 'bootstrap';
+import { useNavigate } from 'react-router-dom';
 
 const Home = () => {
     const [reviews, setReviews] = useReviews();
+    const navigate = useNavigate();
     return (
         <div>
             <div className='home'>
@@ -33,7 +35,7 @@ const Home = () => {
             </div>
 
             <div className='container'>
-                <button className='review-button'>See all Reviews</button>
+                <button onClick={()=>navigate('/reviews')} className='review-button' >See all Reviews</button>
             </div>
         </div>
 
