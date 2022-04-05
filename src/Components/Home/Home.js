@@ -3,6 +3,7 @@ import './Home.css';
 import image from '../../Images/watch.png';
 import useReviews from '../../Hooks/useReviews';
 import Review from '../Review/Review';
+import { Button } from 'bootstrap';
 
 const Home = () => {
     const [reviews, setReviews] = useReviews();

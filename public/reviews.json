@@ -4,28 +4,28 @@
     "index": 0,
     "picture": "https://i.ibb.co/1KyYqtb/3.jpg",
     "name": "John",
-    "reviewData": "Excellent"
+    "reviewData": "Excellent product"
   },
   {
     "_id": "623853b2578e9e6ad1ae0dd5",
     "index": 1,
     "picture": "https://i.ibb.co/mNzb0sM/2.jpg",
     "name": "Sarah",
-    "reviewData": "Awesome"
+    "reviewData": "Perfect to wear"
   },
   {
     "_id": "623853b21fb149d2ee7b76c7",
     "index": 2,
     "picture": "https://i.ibb.co/1KyYqtb/3.jpg",
     "name": "Smith",
-    "reviewData": "Expert work"
+    "reviewData": "Love the design"
   },
   {
     "_id": "623853b2e91c8de578c9245e",
     "index": 3,
     "picture": "https://i.ibb.co/2ty8Hbt/4.jpg",
     "name": "Ferguson",
-    "reviewData": "Very good"
+    "reviewData": "Very fast and affordable"
   },
   {
     "_id": "623853b2239582e48409ccc6",
@@ -39,6 +39,6 @@
     "index": 5,
     "picture": "https://i.ibb.co/cTfcQbc/5.jpg",
     "name": "Andy",
-    "reviewData": "Excellent"
+    "reviewData": "Best in market"
   }
 ]

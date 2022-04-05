@@ -8,6 +8,7 @@ const Review = (props) => {
             <img src={picture} alt="" />
             <h4>Name: {name}</h4>
             <p>Comment: {reviewData}</p>
+            <p>Ratings: </p>
         </div>
     );
 };
