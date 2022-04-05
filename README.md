@@ -1,11 +1,14 @@
-# Getting Started with Create React App
+# Product Analyser
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live Project link: [Product Analyser](https://product-analyser-tauhidurrana.netlify.app/).
 
 ## Available Scripts
 
-In the project directory, you can run:
-
+About the projects:
+* There are some customer reviews.
+* Two charts from dashboard.
+* A blog page with three different que and ans.
+* single page with route with error handling.
 ### `npm start`
 
 Runs the app in the development mode.\
